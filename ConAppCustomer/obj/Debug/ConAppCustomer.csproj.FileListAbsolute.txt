@@ -1,0 +1,8 @@
+C:\DotNetTraining\Day11\ConAppCustomer\ConAppCustomer\bin\Debug\ConAppCustomer.exe.config
+C:\DotNetTraining\Day11\ConAppCustomer\ConAppCustomer\bin\Debug\ConAppCustomer.exe
+C:\DotNetTraining\Day11\ConAppCustomer\ConAppCustomer\bin\Debug\ConAppCustomer.pdb
+C:\DotNetTraining\Day11\ConAppCustomer\ConAppCustomer\obj\Debug\ConAppCustomer.csproj.AssemblyReference.cache
+C:\DotNetTraining\Day11\ConAppCustomer\ConAppCustomer\obj\Debug\ConAppCustomer.csproj.SuggestedBindingRedirects.cache
+C:\DotNetTraining\Day11\ConAppCustomer\ConAppCustomer\obj\Debug\ConAppCustomer.csproj.CoreCompileInputs.cache
+C:\DotNetTraining\Day11\ConAppCustomer\ConAppCustomer\obj\Debug\ConAppCustomer.exe
+C:\DotNetTraining\Day11\ConAppCustomer\ConAppCustomer\obj\Debug\ConAppCustomer.pdb

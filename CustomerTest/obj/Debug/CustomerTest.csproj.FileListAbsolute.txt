@@ -1,0 +1,2 @@
+C:\DotNetTraining\Day11\ConAppCustomer\CustomerTest\obj\Debug\CustomerTest.csproj.AssemblyReference.cache
+C:\DotNetTraining\Day11\ConAppCustomer\CustomerTest\obj\Debug\CustomerTest.csproj.CoreCompileInputs.cache
